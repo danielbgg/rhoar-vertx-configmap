@@ -1,5 +1,5 @@
-# RHOAR Vertex ConfigMap
-Vertex ConfigMap Microservice - RHOAR course
+# RHOAR Vert.x ConfigMap
+Vert.x ConfigMap Microservice - RHOAR course
 
 ## Compile Application
 ```
